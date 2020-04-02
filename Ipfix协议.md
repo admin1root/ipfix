@@ -456,3 +456,6 @@ IPFIX消息头已经包含观察域ID。 如果不为零，则可以将该观察
     time first flow dropped
     time last flow dropped
     
+    
+    
+# （待续）
